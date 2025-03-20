@@ -280,7 +280,7 @@ Hầu hết mọi người mà bạn tương tác ngày nay đều đã sử d�
 
 ---
 
-### **Tóm tắt bản dịch**  
+### **Tóm tắt**  
 - Giao tiếp quá mức giúp tránh sự hiểu lầm và tạo sự minh bạch trong tổ chức.  
 - Email là công cụ phổ biến nhưng không phải ai cũng sử dụng hiệu quả.  
 - Một số nguyên tắc giúp sử dụng email tốt hơn:  
