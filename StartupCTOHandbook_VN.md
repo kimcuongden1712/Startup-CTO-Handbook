@@ -42,3 +42,26 @@ Trong suốt hành trình này, tôi cũng có cơ hội học hỏi từ nhiề
 Qua những tài liệu đã đọc, tôi nhận ra một điều: Trong khi có hàng trăm cuốn sách hướng dẫn dành cho lập trình viên và những người làm việc với công nghệ hay công cụ cụ thể, cũng như rất nhiều sách hữu ích dành cho CEO và CFO về mặt tài chính trong khởi nghiệp, thì ngành của chúng ta vẫn đang thiếu một tài nguyên thực tế, chuyên sâu dành cho các **lãnh đạo kỹ thuật tại startup** (startup tech leaders). Chúng ta cần một tài liệu bao quát tất cả các chủ đề nằm giữa những kỹ năng cốt lõi, giúp giải quyết các thách thức và nâng cao kỹ năng lãnh đạo quan trọng trong vai trò này.  
 
 Hiện nay có rất nhiều bài viết về cách viết mã tốt, cách thực hiện khảo sát người dùng, hay cách tìm kiếm **product-market fit** (sự phù hợp giữa sản phẩm và thị trường). Tuy nhiên, cuốn sách này tập trung vào **xây dựng đội ngũ kỹ thuật** (technical team building)—một lĩnh vực bao gồm tất cả những kỹ năng mà một nhà lãnh đạo cần để xây dựng công ty, nhưng không được dạy trong nền giáo dục công nghệ truyền thống hay kinh nghiệm làm việc thông thường.  
+
+### Cách sử dụng cuốn sách này  
+
+Là một nhà lãnh đạo nhóm kỹ thuật phần mềm, rất có thể bạn đã từng gặp phải một số vấn đề sau trong công việc của mình:  
+
+- Theo dõi, quản lý hoặc xử lý **nợ kỹ thuật** (tech debt).  
+- Tuyển dụng, thu hút, nuôi dưỡng và giữ chân những nhân tài hàng đầu.  
+- Xây dựng một hệ thống đánh giá hiệu suất khách quan, công bằng và minh bạch.  
+- Xây dựng, quản lý và duy trì một **văn hóa doanh nghiệp sáng tạo và lành mạnh** (generative company culture).  
+- Điều hướng mối quan hệ với các nhà lãnh đạo khác trong công ty.  
+- Đối mặt với quy trình ra quyết định chậm chạp hoặc những cuộc tranh luận kéo dài vô tận giữa các nhân viên kỹ thuật về cách thiết kế và phát triển hệ thống.  
+
+Dường như mọi nhà lãnh đạo kỹ thuật đều phải đối mặt với những vấn đề này vào một thời điểm nào đó. Tuy nhiên, đáng tiếc là các chương trình đào tạo về kinh doanh hoặc kỹ thuật hầu như không đề cập đến cách xử lý chúng một cách thực tế.  
+
+Mục tiêu của tôi khi viết cuốn sách này là cung cấp góc nhìn về những vấn đề trên, đồng thời đưa ra bối cảnh thực tế về cách các phương pháp khác nhau được áp dụng. Tôi muốn giúp bạn hiểu rõ hơn về **sự đánh đổi** (tradeoffs) trong từng quyết định, mở rộng tầm nhìn để dự đoán các vấn đề tiềm ẩn, và cung cấp những **khung tư duy** (frameworks) giúp bạn tự tin đưa ra quyết định hợp lý.  
+
+Cuốn sách này được viết chủ yếu dành cho những ai hiện đang hoặc có thể sẽ quản lý một nhóm kỹ sư phần mềm trong tương lai, đặc biệt là trong vai trò lãnh đạo tại các **công ty khởi nghiệp được đầu tư mạo hiểm** (venture-backed startup). Tuy nhiên, các **kỹ sư phần mềm không giữ vai trò quản lý** cũng có thể tìm thấy giá trị trong cuốn sách này, vì nó giúp họ hiểu rõ hơn về những nhiệm vụ và trách nhiệm của người quản lý – những điều có thể không dễ nhận thấy khi chỉ nhìn từ góc độ của một cá nhân đóng góp (individual contributor).  
+
+Tôi đã định dạng cuốn sách theo dạng **tập hợp các chương độc lập**, bao quát một loạt chủ đề khác nhau. Nó được thiết kế như một **cẩm nang tham khảo** (reference guide), nơi bạn có thể chọn đọc từng chương khi cần, thay vì phải đọc theo thứ tự từ đầu đến cuối. Vì lý do này, một số nội dung sẽ được lặp lại trong nhiều chương để đảm bảo mỗi chương có thể đứng độc lập mà không cần phụ thuộc vào các phần trước đó.  
+
+Mục tiêu của tôi trong mỗi chương không phải là cung cấp một cuộc thảo luận toàn diện hay đánh giá đầy đủ về chủ đề. Thay vào đó, tôi muốn giới thiệu vấn đề, đưa ra tổng quan hoặc cấu trúc tư duy, đề xuất một số thực tiễn tốt nhất, đồng thời giới thiệu tài liệu tham khảo để bạn có thể tìm hiểu sâu hơn. Hãy xem cuốn sách này như một **bộ sưu tập đa chiều nhưng không chuyên sâu** (breadth-first collection) về các chủ đề liên quan đến lãnh đạo kỹ thuật. Việc lựa chọn chủ đề nào quan trọng nhất tùy thuộc vào bạn – khi đã có được bối cảnh và góc nhìn cần thiết, bạn có thể tiếp tục nghiên cứu sâu hơn và áp dụng kiến thức vào thực tế.  
+
+Cuối cùng, cuốn sách này là một sự tổng hợp từ kinh nghiệm cá nhân của tôi, cùng với những tài liệu tham khảo hữu ích mà tôi đã tìm thấy, đan xen với lời khuyên từ đồng nghiệp, cố vấn và những người hướng dẫn. Nếu có bất kỳ quan điểm nào trong cuốn sách mà bạn không đồng ý hoặc cho rằng chưa chính xác, và bạn muốn phản hồi cho tôi, hoặc nếu bạn thấy cuốn sách hữu ích và muốn trao đổi trực tiếp, hãy liên hệ qua email **zach@ctohb.com**. Tôi cũng rất sẵn lòng thảo luận về các cơ hội cố vấn, đào tạo hoặc huấn luyện qua địa chỉ email trên.  
